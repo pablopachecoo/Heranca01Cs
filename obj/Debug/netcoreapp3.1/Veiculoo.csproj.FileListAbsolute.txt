@@ -1,0 +1,11 @@
+C:\Users\POPF\source\repos\Veiculoo\Veiculoo\bin\Debug\netcoreapp3.1\Veiculoo.exe
+C:\Users\POPF\source\repos\Veiculoo\Veiculoo\bin\Debug\netcoreapp3.1\Veiculoo.deps.json
+C:\Users\POPF\source\repos\Veiculoo\Veiculoo\bin\Debug\netcoreapp3.1\Veiculoo.runtimeconfig.json
+C:\Users\POPF\source\repos\Veiculoo\Veiculoo\bin\Debug\netcoreapp3.1\Veiculoo.runtimeconfig.dev.json
+C:\Users\POPF\source\repos\Veiculoo\Veiculoo\bin\Debug\netcoreapp3.1\Veiculoo.dll
+C:\Users\POPF\source\repos\Veiculoo\Veiculoo\bin\Debug\netcoreapp3.1\Veiculoo.pdb
+C:\Users\POPF\source\repos\Veiculoo\Veiculoo\obj\Debug\netcoreapp3.1\Veiculoo.csprojAssemblyReference.cache
+C:\Users\POPF\source\repos\Veiculoo\Veiculoo\obj\Debug\netcoreapp3.1\Veiculoo.AssemblyInfoInputs.cache
+C:\Users\POPF\source\repos\Veiculoo\Veiculoo\obj\Debug\netcoreapp3.1\Veiculoo.AssemblyInfo.cs
+C:\Users\POPF\source\repos\Veiculoo\Veiculoo\obj\Debug\netcoreapp3.1\Veiculoo.dll
+C:\Users\POPF\source\repos\Veiculoo\Veiculoo\obj\Debug\netcoreapp3.1\Veiculoo.pdb
